@@ -17,7 +17,7 @@ A Claude Code skill that watches your TikTok Business Suite inbox in Chrome:
 
    Easiest way from a terminal:
    ```
-   git clone https://github.com/<your-user>/tiktok-dm-assistant.git "%USERPROFILE%\.claude\skills\tiktok-dm-assistant"
+   git clone https://github.com/mirydor/tiktok-dm-assistant.git "%USERPROFILE%\.claude\skills\tiktok-dm-assistant"
    ```
 4. Open a Claude Code session in the desktop app and type `/tiktok-dm-assistant`.
 5. Optional: turn on **Remote Control** for that session so approval alerts reach your phone.
